@@ -1197,8 +1197,7 @@ st.markdown("<p class='sub'>Hydrate · Grow · Achieve 💙</p>", unsafe_allow_h
 
 
 ## 📦 Dependencies
-`requirements.txt` — streamlit
-pillow
+`requirements.txt` — Lists the Python libraries needed to run the app.
 
 ---
 
