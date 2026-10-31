@@ -17,7 +17,7 @@ Water Buddy is a water-tracking app that helps users stay hydrated by setting da
 WaterBuddy is a Python-based hydration tracking app that helps users track daily water intake, set goals, and build better hydration habits through an interactive ocean-themed experience.
 
 ## 🚀 Try WaterBuddy
-Experience WaterBuddy here: [Launch WaterBuddy]((https://waterbuddy-ia3qxmgqjs9uylsw3hwz3u.streamlit.app/))
+Experience WaterBuddy here:((https://waterbuddy-ia3qxmgqjs9uylsw3hwz3u.streamlit.app/))
 
 ## ✨ Features
 - 💧 Daily water intake tracking
